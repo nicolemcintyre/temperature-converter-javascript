@@ -64,4 +64,3 @@ function clear(){
      celsius.disabled = false;
      submitBtn.disabled = false;
    }
-
